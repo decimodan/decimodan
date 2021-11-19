@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hola, Soy Daniel Guerrero 👋
+
+Soy un Software Engineer apasionado por multiples tecnologías, pero mis intereses actuales son:
+
+- Crypto
+- Machine Learning / IA
+- Microservicios
+- Cloud Native
+
+## Encuentrame en Internet
+
+- Visita mi website <a href="https://decimodan.com">decimodan.com</a> 🌍 
+- Sigueme en <a href="https://twitter.com/decimodan">Twitter</a> 
+- Sigue mi vida profesional en <a href="https://www.linkedin.com/in/daniel-guerrero-051/">LinkedIn</a> 💼
