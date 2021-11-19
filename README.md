@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **decimodan/decimodan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hola, Soy Daniel Guerrero 👋
+### Hola, Soy Daniel Guerrero 👋
 
 Soy un Software Engineer apasionado por multiples tecnologías, pero mis intereses actuales son:
 
@@ -25,8 +23,8 @@ Soy un Software Engineer apasionado por multiples tecnologías, pero mis interes
 - Microservicios
 - Cloud Native
 
-## Encuentrame en Internet
+## Contactame
 
-- Visita mi website <a href="https://decimodan.com">decimodan.com</a> 🌍 
+- Visita mi <a href="https://decimodan.com">website</a> 🌍 
 - Sigueme en <a href="https://twitter.com/decimodan">Twitter</a> 
 - Sigue mi vida profesional en <a href="https://www.linkedin.com/in/daniel-guerrero-051/">LinkedIn</a> 💼
