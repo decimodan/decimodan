@@ -26,6 +26,8 @@ Soy un Software Engineer apasionado por multiples tecnologías, pero mis interes
 ## Contactame
 
 - Visita mi <a href="https://decimodan.com">website</a> 🌍 
+- Visita mi <a href="https://github.com/daguerrero">mi antigo GitHub</a>
+- Visita mi <a href="https://decimodan.com/projects/"> portfolio</a>
 - Sigueme en <a href="https://twitter.com/decimodan">Twitter</a> 
 - Sigue mi vida profesional en <a href="https://www.linkedin.com/in/daniel-guerrero-051/">LinkedIn</a> 💼
 
